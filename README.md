@@ -1,5 +1,5 @@
 # DSBDAL
-1. New Project Project
+1. New Java Project
 2. Add External Jars -> File Sysystems -> usr -> lib -> hadoop (add all)
 3. Add External Jars -> File Sysystems -> usr -> lib -> hadoop->client (add all)
 4. Finish
