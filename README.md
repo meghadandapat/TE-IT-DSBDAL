@@ -1,7 +1,7 @@
 # DSBDAL
 1. New Project Project
-2. Add External Jars -> File Sysystems -> usr -> lib -> hadoop (add all)\n
-3. Add External Jars -> File Sysystems -> usr -> lib -> hadoop->client (add all)\n
+2. Add External Jars -> File Sysystems -> usr -> lib -> hadoop (add all)
+3. Add External Jars -> File Sysystems -> usr -> lib -> hadoop->client (add all)
 4. Finish
 5. Right click on src->new->class->FileName(same as Project Name) -> Finish
 6. Right click on project -> JAVA -> JAR File->Browse->Cloudera ->FileName.jar -> ok -> Finish
