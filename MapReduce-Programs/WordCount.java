@@ -44,6 +44,7 @@ for(String word: words )
 }
 }
 }
+
 public static class ReduceForWordCount extends Reducer<Text, IntWritable, Text, IntWritable>
 {
 public void reduce(Text word, Iterable<IntWritable> values, Context con) throws IOException, InterruptedException
@@ -57,4 +58,5 @@ int sum = 0;
 }
 
 }
+
 }

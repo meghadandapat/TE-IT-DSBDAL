@@ -1,12 +1,11 @@
-# DSBDAL
 1. New Java Project
-2. Add External Jars -> File Sysystems -> usr -> lib -> hadoop (add all)
-3. Add External Jars -> File Sysystems -> usr -> lib -> hadoop->client (add all)
+2. Add External Jars -> File Sysystems -> usr -> lib -> hadoop (add all .jar files)
+3. Add External Jars -> File Sysystems -> usr -> lib -> hadoop->client (add all .jar files)
 4. Finish
-5. Right click on src->new->class->FileName(same as Project Name) -> Finish
-6. Right click on project -> JAVA -> JAR File->Browse->Cloudera ->FileName.jar -> ok -> Finish
+5. Right click on src -> new -> class -> FileName(same as Project Name) -> Finish
+6. Right click on project -> Export -> JAVA -> JAR File-> Browse -> Cloudera ->FileName.jar -> ok -> Finish
 
-Terminal  :
+Terminal :
 cat > /home/cloudera/Processfile1.txt (Enter inputs, ctr+z to exit )
 
 1. hdfs dfs -mkdir /inputfolder
